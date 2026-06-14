@@ -61,21 +61,7 @@
 * Statistical analysis and hypothesis testing
 * Data visualization and insights generation
 * Predictive analytics foundations
-
-### 🏗️ Dezinea Platform
-
-A technology platform connecting clients with architects, contractors, consultants, and vendors in the design and construction ecosystem.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DakshRathod0906\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshRathod0906\&layout=compact)
-
----
-
+  
 ## 🤝 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/daksh-rathod-ba1349335/
