@@ -1,55 +1,44 @@
 # Hi, I'm Daksh Rathod 👋
 
-### 🚀 About Me
+### 🎓 About Me
 
-* 🎓 B.E. Computer Science & Engineering Student
-* 💻 Full-Stack Developer and Data Analytics Enthusiast
-* 📊 Exploring Data Science, Machine Learning, and AI
-* 🌱 Passionate about building technology-driven solutions
+* B.E. Computer Science & Engineering Student
+* Passionate about Data Analytics, Machine Learning, and Full-Stack Development
+* Currently exploring real-world applications of AI and Data Science
+* Continuously learning and building projects to strengthen problem-solving skills
 
 ---
 
-## 🔭 Current Focus
+## 🚀 Current Focus
 
 * Data Analytics & Visualization
 * Machine Learning with Python
-* Full-Stack Web Development
-* Building scalable digital products
+* React Development
+* Data Structures & Algorithms
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-* Python
-* Java
-* JavaScript
-* SQL
+Python • Java • JavaScript • SQL
 
-**Frontend**
+### Frontend
 
-* React.js
-* HTML5
-* CSS3
+React.js • HTML5 • CSS3
 
-**Backend & Database**
+### Database
 
-* Node.js
-* MySQL
+MySQL
 
-**Data Analytics**
+### Data Analytics
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+Pandas • NumPy • Matplotlib • Seaborn
 
-**Tools**
+### Tools
 
-* Git
-* GitHub
-* VS Code
+Git • GitHub • VS Code
 
 ---
 
@@ -58,17 +47,18 @@
 ### 📊 Exploratory Data Analysis for Machine Learning
 
 * Data cleaning and preprocessing
-* Statistical analysis and hypothesis testing
+* Exploratory Data Analysis (EDA)
+* Statistical hypothesis testing
 * Data visualization and insights generation
-* Predictive analytics foundations
-  
+
 ## 🤝 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/daksh-rathod-ba1349335/
-* Email: [dakshra0906@gmail.com](mailto:dakshra0906@gmail.com)
+📧 Email: [dakshra0906@gmail.com](mailto:dakshra0906@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/daksh-rathod-ba1349335/
 
 ---
 
-### 💡 Motto
+### ⚡ Fun Fact
 
-"Learning, Building, and Improving Every Day."
+I enjoy turning raw data into meaningful insights and building projects that solve real-world problems.
