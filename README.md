@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Daksh Rathod 👋
 
-<!--
-**DakshRathod0906/DakshRathod0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech IT Student
+- Exploring Data Science, Machine Learning, and Full-Stack Development
+- Building Dezinea – Design & Construction Professional Network
 
-Here are some ideas to get you started:
+## Current Focus
+- Data Analytics Projects
+- Python & Machine Learning
+- React Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | Java | React | MySQL | Pandas | NumPy | Git
+
+## Featured Projects
+
+### Exploratory Data Analysis for Machine Learning
+Data cleaning, visualization, hypothesis testing, and predictive insights.
+
+### Dezinea Platform
+Technology-enabled marketplace connecting clients with architects, contractors, consultants, and vendors.
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/daksh-rathod-ba1349335/
+Email: dakshra0906@gmail.com
